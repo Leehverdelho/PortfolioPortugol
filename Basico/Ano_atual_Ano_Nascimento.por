@@ -1,3 +1,6 @@
+//Desenvolvido por Leticia Verdelho Ribeiro
+//Este codigo serve para revelar a sua idade, voce coloca a ano atual e o ano do seu nascimento, ele faz a conta e mostra a sua idade.
+
 programa {
   funcao inicio() {
     
