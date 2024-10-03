@@ -1,3 +1,6 @@
+//Desenvolvido por Leticia Verdelho Ribeiro.
+//Este codigo pede ao usuario para digitar a nota de 15 alunos e no final mostra a quantidade de alunos aprovados e a quantidade de alunos reprovados.
+
 programa {
   funcao inicio() {
     
