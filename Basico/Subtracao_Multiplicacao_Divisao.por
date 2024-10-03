@@ -1,4 +1,6 @@
 //Desenvolvido por: Leticia Verdelho//
+//O codigo pede ao usuario digitar 2 valores e depois faz a divisão a multiplicação e a subtração desses valores.
+
 programa {
   funcao inicio() {
 
