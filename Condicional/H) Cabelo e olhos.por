@@ -1,3 +1,9 @@
+//Desenvolvido por Leticia Verdelho Ribeiro
+//Este codigo pede ao usuario para prencher as informaçoes pedidas e no final o codigo mostra - A quantidade de pessoas com mais de 50 anos e peso inferior a 60kg. 
+// - A media das idades das pessoas com menos de 1,50 de altura.
+// - A porcentagem, de pessoas com os olhos azuis.
+// - Quantidade de pessoas ruivas que não tem olhos azuis.
+
 programa
 {
 	
