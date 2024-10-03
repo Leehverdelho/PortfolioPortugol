@@ -1,5 +1,5 @@
+//Desenvolvido por Leticia Verdelho Ribeiro//
 //Esse código você escreve dois números e o código vai te dizer se o número e maior.//
-//Desenvolvido por:Maria Izabel Leticia Verdelho Ribeiro//
 
 programa {
   funcao inicio() {
