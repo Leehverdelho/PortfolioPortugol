@@ -1,5 +1,6 @@
 //Desenvolvido por Leticia Verdelho Ribeiro - 10/07/2024/ //
 //Atividade Pratica com Vetor//
+//Este codigo pede ao usuario para digitar 2 valores e no final exibe a somatoria desses valores.
 
 programa {
   funcao inicio() {
