@@ -1,3 +1,6 @@
+//Desenvolvido por Leticia Verdelho Ribeiro 
+//Este codigo o usuario digita um numero e se o numero for multiplo de 4 e de 7 ele vai exibir uma mensagem se não ele vai exibir que o numero não é multiplo.
+
 programa {
   funcao inicio() {
     
